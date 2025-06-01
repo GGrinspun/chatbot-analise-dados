@@ -10,8 +10,13 @@ Ele utiliza `pandas` para manipulação dos dados e `matplotlib` para visualiza�
 
 ## Exemplo de funcionamento
 
-![image](https://github.com/user-attachments/assets/67864606-e6d1-4af4-a7c8-50a48b380239)
 
+
+https://github.com/user-attachments/assets/28b274c2-4b29-40b6-b466-05f45ed72ac3
+
+
+
+link para o video completo no youtube: https://youtu.be/NFT1O7GbTdA
 
 ---
 
