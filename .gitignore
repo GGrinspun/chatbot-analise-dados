@@ -1,0 +1,24 @@
+# Ignorar ambiente virtual
+venv/
+.venv/
+
+# Ignorar arquivos de variáveis secretas
+.env
+*.env
+
+# Ignorar caches e metadados
+__pycache__/
+*.py[cod]
+*.log
+
+# Ignorar configurações locais de IDEs
+.vscode/
+.idea/
+
+# Ignorar arquivos temporários
+*.tmp
+*.swp
+*.bak
+.DS_Store
+venv/
+.env

@@ -1,0 +1,7 @@
+OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxx
+GEMINI_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxx
+AWS_ACCESS_KEY_ID=AKxxxxxxxxxxxxxxxxxxxxxxxx
+AWS_SECRET_ACCESS_KEY=Oxxxxxxxxxxxxxxxxxxxxxxxx
+AWS_DEFAULT_REGION=us-east-1
+S3_BUCKET=nome-seu-s3-Bucket
+S3_FILE=nome-seu-dataset.csv

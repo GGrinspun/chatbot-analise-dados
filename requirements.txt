@@ -1,0 +1,5 @@
+streamlit
+openai
+pandas
+boto3
+python-dotenv
